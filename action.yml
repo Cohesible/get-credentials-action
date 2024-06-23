@@ -1,0 +1,6 @@
+name: 'Get Cohesible Credentials'
+runs:
+  using: 'node20'
+  main: 'out/src/main.js'
+  # TODO:
+  # post: 'out/src/clean.js'

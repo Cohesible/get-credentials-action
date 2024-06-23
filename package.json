@@ -1,0 +1,15 @@
+{
+    "bin": {
+        "main": "./src/main.ts"
+    },
+    "dependencies": {
+        "@actions/core": "^1.10.1"
+    },
+    "devDependencies": {
+        "@cohesible/auth": "file:auth.tgz"
+    },
+    "scripts": {
+        "deploy": "synapse deploy --target aws",
+        "build": "synapse build --no-sea"
+    }
+}
