@@ -19758,7 +19758,7 @@ var init__ = __esm({
     n_17 = Object.assign(/* @__PURE__ */ Object.create(null), {
       "bindings": n_43,
       "body": "$[0]",
-      "host": "eep5y8diy1.execute-api.us-west-2.amazonaws.com",
+      "host": "t6frj5ht74.execute-api.us-west-2.amazonaws.com",
       "method": "POST",
       "path": "/token/exchange"
     });
